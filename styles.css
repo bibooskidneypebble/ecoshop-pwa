@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: #f4f4f4;
+}
+
+h1 {
+    color: #3cba54;
+}
+
+li {
+    background: white;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+button {
+    background: #3cba54;
+    color: white;
+    padding: 10px;
+    border: none;
+}
